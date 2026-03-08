@@ -8,7 +8,7 @@ All files include comments with logic explanation, time/space complexity, and sa
 - Linear Search: [linearsearchbasic.c]linearsearchbasic.c  
 - Array Frequency Count: [ArrayFrequency.c]ArrayFrequency.c  
 - Kadane's Algorithm (Max Subarray Sum): [Kadane's Algorithm.c]Kadane's Algorithm.c  
-- Array Insertion & Deletion: [Arrayinsertion&deletion.c]Arrayinsertion&deletion.c  
+- Array Insertion & Deletion: [ArrayinsertionAnddeletion.c]ArrayinsertionAnddeletion.c  
 - Sort Array: Sortarray.c  
 - Max, Min & Second Largest:[MaxMinAndSecondLargest.c]MaxMinAndSecondLargest.c  
 
