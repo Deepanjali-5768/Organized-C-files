@@ -16,7 +16,7 @@ Folders: All in root or sub-folders for better organization.
 
 More programs cover arrays, searching, sorting, pointers, strings, etc.
 
-For custom DSA solutions/explanations in C or Java — check my Fiverr gig!  
+For custom DSA solutions/explanations in C or Java — check my FIVERR GIG!  
 [Link to your gig once published]
 
 Feel free to use for learning/assignments. Happy coding!
