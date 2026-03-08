@@ -5,12 +5,12 @@
 All files include comments with logic explanation, time/space complexity, and sample inputs/outputs.
 
 ## Highlighted Programs
-- Linear Search: linearsearchbasic.c  
-- Array Frequency Count: ArrayFrequency.c  
-- Kadane's Algorithm (Max Subarray Sum): Kandae's Algorithm.c  
-- Array Insertion & Deletion: Arrayinsertion&deletion.c  
+- Linear Search: [linearsearchbasic.c]linearsearchbasic.c  
+- Array Frequency Count: [ArrayFrequency.c]ArrayFrequency.c  
+- Kadane's Algorithm (Max Subarray Sum): [Kadane's Algorithm.c]Kadane's Algorithm.c  
+- Array Insertion & Deletion: [Arrayinsertion&deletion.c]Arrayinsertion&deletion.c  
 - Sort Array: Sortarray.c  
-- Max, Min & Second Largest: MaxMin&SecondLargest.c  
+- Max, Min & Second Largest:[MaxMinAndSecondLargest.c]MaxMinAndSecondLargest.c  
 
 Folders: All in root or sub-folders for better organization.
 
